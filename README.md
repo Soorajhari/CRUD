@@ -3,7 +3,7 @@ The usage of this application is that a user can add edit,delete and search empl
 
 Clone or fork this repository to your local machine:
 
-https://github.com/Soorajhari/Pdf-Extracter.git
+https://github.com/Soorajhari/CRUD-Task/tree/main
 
 Prerequisites The service must be installed
 
