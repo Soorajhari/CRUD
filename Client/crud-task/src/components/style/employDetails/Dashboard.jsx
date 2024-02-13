@@ -71,7 +71,7 @@ function Employmanagement() {
               </button>
             </Link>
           </div>
-          <div className="w-1/2 md:w-[850px] overflow-hidden border rounded-lg mt-3 overflow-x-auto">
+          <div className="w-2/3 md:w-[850px] overflow-hidden border rounded-lg mt-3 overflow-x-auto">
             <table className="min-w-full divide-y divide-gray-200">
               <thead className="bg-gray-50">
                 <tr>
